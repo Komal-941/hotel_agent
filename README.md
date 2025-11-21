@@ -13,7 +13,7 @@ hotel-room-service-agent/
 ├── main.py
 ├── agent.py
 ├── database.py
-├── menu_seed.py
+├── menu.py
 ├── requirements.txt
 ├── .env
 │
